@@ -57,4 +57,3 @@ Dementia
       ID Cache: 0 B
       Segments: 50 MB (860)
 ```
-
